@@ -1,6 +1,6 @@
 package com.example.usermanagement.domain;
 
-public class Member {
+public class User {
     private Long id;
     private String name;
 
